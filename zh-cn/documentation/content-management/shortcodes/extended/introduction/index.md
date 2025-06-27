@@ -554,5 +554,5 @@ FixIt 主题旨在 **简洁性** 和 **可扩展性** 之间取得平衡。为�
 ---
 
 > 作者: [Lruihao](https://lruihao.cn)  
-> URL: http://localhost:54747/zh-cn/documentation/content-management/shortcodes/extended/introduction/  
+> URL: http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/introduction/  
 

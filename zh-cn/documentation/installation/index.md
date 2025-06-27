@@ -182,5 +182,5 @@ CLI 假定你事先了解 Hugo 和 FixIt。如果你是 Hugo 或 FixIt 的新手
 ---
 
 > 作者: noyceliu  
-> URL: http://localhost:54747/zh-cn/documentation/installation/  
+> URL: http://localhost:54747//noyceliu.github.io/zh-cn/documentation/installation/  
 

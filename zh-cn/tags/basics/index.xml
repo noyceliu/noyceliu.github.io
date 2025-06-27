@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Basics - 标签 | FixIt</title>
-    <link>http://localhost:54747/zh-cn/tags/basics/</link>
+    <link>http://localhost:54747//noyceliu.github.io/zh-cn/tags/basics/</link>
     <description>一个简洁、优雅且高效的 Hugo 主题 FixIt</description>
     <generator>Hugo 0.147.7 &amp; FixIt v0.3.21-b2e6f70a</generator>
     <language>zh-CN</language>
@@ -10,46 +10,46 @@
     <webMaster>noyceliu@163.com (noyceliu)</webMaster>
     <copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议。</copyright>
     <lastBuildDate>Thu, 26 Jun 2025 10:45:02 +0800</lastBuildDate>
-    <atom:link href="http://localhost:54747/zh-cn/tags/basics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:54747//noyceliu.github.io/zh-cn/tags/basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>快速上手</title>
-      <link>http://localhost:54747/zh-cn/documentation/getting-started/quick-start/</link>
+      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/getting-started/quick-start/</link>
       <pubDate>Mon, 20 Feb 2023 20:14:22 +0800</pubDate>
-      <guid>http://localhost:54747/zh-cn/documentation/getting-started/quick-start/</guid>
-      <category domain="http://localhost:54747/zh-cn/categories/documentation/">Documentation</category>
+      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/getting-started/quick-start/</guid>
+      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;学习在几分钟内创建一个 Hugo &lt;strong&gt;FixIt&lt;/strong&gt; 站点。&lt;/p&gt;</description>
     </item>
     <item>
       <title>配置 FixIt</title>
-      <link>http://localhost:54747/zh-cn/documentation/getting-started/configuration/</link>
+      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/getting-started/configuration/</link>
       <pubDate>Thu, 07 Mar 2024 15:37:59 +0800</pubDate>
-      <guid>http://localhost:54747/zh-cn/documentation/getting-started/configuration/</guid>
-      <category domain="http://localhost:54747/zh-cn/categories/documentation/">Documentation</category>
+      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/getting-started/configuration/</guid>
+      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;了解如何配置你的 Hugo &lt;strong&gt;FixIt&lt;/strong&gt; 站点。&lt;/p&gt;</description>
     </item>
     <item>
       <title>内置 Shortcodes</title>
-      <link>http://localhost:54747/zh-cn/documentation/content-management/shortcodes/built-in/</link>
+      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/built-in/</link>
       <pubDate>Fri, 24 Feb 2023 22:11:22 +0800</pubDate>
-      <guid>http://localhost:54747/zh-cn/documentation/content-management/shortcodes/built-in/</guid>
-      <category domain="http://localhost:54747/zh-cn/categories/documentation/">Documentation</category>
+      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/built-in/</guid>
+      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;Shortcodes 是在内容文件中调用内置或自定义模板的简单片段。&lt;/p&gt;</description>
     </item>
     <item>
       <title>内容管理概述</title>
-      <link>http://localhost:54747/zh-cn/documentation/content-management/introduction/</link>
+      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/introduction/</link>
       <pubDate>Fri, 24 Feb 2023 17:27:22 +0800</pubDate>
-      <guid>http://localhost:54747/zh-cn/documentation/content-management/introduction/</guid>
-      <category domain="http://localhost:54747/zh-cn/categories/documentation/">Documentation</category>
+      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/introduction/</guid>
+      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;了解如何在 &lt;strong&gt;FixIt&lt;/strong&gt; 主题中快速，直观地创建和组织内容。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown 基本语法</title>
-      <link>http://localhost:54747/zh-cn/documentation/content-management/markdown-syntax/basics/</link>
+      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/basics/</link>
       <pubDate>Sat, 18 Dec 2021 16:15:22 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
-      <guid>http://localhost:54747/zh-cn/documentation/content-management/markdown-syntax/basics/</guid>
-      <category domain="http://localhost:54747/zh-cn/categories/guides/">Guides</category>
-      <category domain="http://localhost:54747/zh-cn/categories/documentation/">Documentation</category>
+      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/basics/</guid>
+      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/guides/">Guides</category>
+      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例。&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Advanced - 标签 | FixIt</title>
-    <link>http://localhost:54747/zh-cn/tags/advanced/</link>
+    <link>http://localhost:54747//noyceliu.github.io/zh-cn/tags/advanced/</link>
     <description>一个简洁、优雅且高效的 Hugo 主题 FixIt</description>
     <generator>Hugo 0.147.7 &amp; FixIt v0.3.21-b2e6f70a</generator>
     <language>zh-CN</language>
@@ -10,45 +10,45 @@
     <webMaster>noyceliu@163.com (noyceliu)</webMaster>
     <copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议。</copyright>
     <lastBuildDate>Thu, 26 Jun 2025 10:48:46 +0800</lastBuildDate>
-    <atom:link href="http://localhost:54747/zh-cn/tags/advanced/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:54747//noyceliu.github.io/zh-cn/tags/advanced/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>相关内容</title>
-      <link>http://localhost:54747/zh-cn/documentation/content-management/related/</link>
+      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/related/</link>
       <pubDate>Sun, 27 Oct 2024 01:05:43 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
-      <guid>http://localhost:54747/zh-cn/documentation/content-management/related/</guid>
-      <category domain="http://localhost:54747/zh-cn/categories/documentation/">Documentation</category>
+      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/related/</guid>
+      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;div class=&#34;details admonition question open&#34;&gt;&#xA;  &lt;div class=&#34;details-summary admonition-title&#34;&gt;&lt;i class=&#34;icon fa-fw fa-regular fa-circle-question&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;缺少翻译&lt;i class=&#34;details-icon fa-solid fa-angle-right fa-fw&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/div&gt;&#xA;  &lt;div class=&#34;details-content&#34;&gt;&#xA;    &lt;div class=&#34;admonition-content&#34;&gt;&lt;p&gt;本文尚未翻译完成，欢迎 &lt;a href=&#34;https://github.com/hugo-fixit/docs/edit/main/content/zh-cn/documentation%5ccontent-management%5crelated%5cindex.md&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;参与翻译&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;。&lt;/p&gt;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;List related content in &amp;ldquo;Related content&amp;rdquo; sections.&lt;/p&gt;</description>
     </item>
     <item>
       <title>进阶篇</title>
-      <link>http://localhost:54747/zh-cn/documentation/advanced/</link>
+      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/advanced/</link>
       <pubDate>Sat, 06 Apr 2024 12:59:28 +0800</pubDate>
-      <guid>http://localhost:54747/zh-cn/documentation/advanced/</guid>
-      <category domain="http://localhost:54747/zh-cn/categories/documentation/">Documentation</category>
+      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/advanced/</guid>
+      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;探索 Hugo - &lt;strong&gt;FixIt&lt;/strong&gt; 主题的的进阶使用。&lt;/p&gt;</description>
     </item>
     <item>
       <title>代码块扩展语法 - 图表支持</title>
-      <link>http://localhost:54747/zh-cn/documentation/content-management/diagrams/</link>
+      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/diagrams/</link>
       <pubDate>Wed, 22 Mar 2023 10:51:22 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
-      <guid>http://localhost:54747/zh-cn/documentation/content-management/diagrams/</guid>
-      <category domain="http://localhost:54747/zh-cn/categories/documentation/">Documentation</category>
+      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/diagrams/</guid>
+      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;这篇文档将展示如何在 FixIt 中使用代码块扩展语法创建 SVG 和 Canvas 图表。&lt;/p&gt;</description>
     </item>
     <item>
       <title>扩展 Shortcodes 概述</title>
-      <link>http://localhost:54747/zh-cn/documentation/content-management/shortcodes/extended/introduction/</link>
+      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/introduction/</link>
       <pubDate>Fri, 24 Feb 2023 22:11:39 +0800</pubDate>
-      <guid>http://localhost:54747/zh-cn/documentation/content-management/shortcodes/extended/introduction/</guid>
-      <category domain="http://localhost:54747/zh-cn/categories/documentation/">Documentation</category>
+      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/introduction/</guid>
+      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;&lt;strong&gt;FixIt&lt;/strong&gt; 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 Shortcodes。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown 扩展语法</title>
-      <link>http://localhost:54747/zh-cn/documentation/content-management/markdown-syntax/extended/</link>
+      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/extended/</link>
       <pubDate>Fri, 24 Feb 2023 21:42:22 +0800</pubDate>
-      <guid>http://localhost:54747/zh-cn/documentation/content-management/markdown-syntax/extended/</guid>
-      <category domain="http://localhost:54747/zh-cn/categories/documentation/">Documentation</category>
+      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/extended/</guid>
+      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;这篇文章展示了 [&lt;strong&gt;FixIt 风格的 Markdown&lt;/strong&gt;]^(FixIt Flavored Markdown) 扩展语法。&lt;/p&gt;</description>
     </item>
   </channel>

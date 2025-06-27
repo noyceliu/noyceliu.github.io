@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Configuration - 标签 | FixIt</title>
-    <link>http://localhost:54747/zh-cn/tags/configuration/</link>
+    <link>http://localhost:54747//noyceliu.github.io/zh-cn/tags/configuration/</link>
     <description>一个简洁、优雅且高效的 Hugo 主题 FixIt</description>
     <generator>Hugo 0.147.7 &amp; FixIt v0.3.21-b2e6f70a</generator>
     <language>zh-CN</language>
@@ -10,13 +10,13 @@
     <webMaster>noyceliu@163.com (noyceliu)</webMaster>
     <copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议。</copyright>
     <lastBuildDate>Thu, 26 Jun 2025 10:45:02 +0800</lastBuildDate>
-    <atom:link href="http://localhost:54747/zh-cn/tags/configuration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:54747//noyceliu.github.io/zh-cn/tags/configuration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>配置 FixIt</title>
-      <link>http://localhost:54747/zh-cn/documentation/getting-started/configuration/</link>
+      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/getting-started/configuration/</link>
       <pubDate>Thu, 07 Mar 2024 15:37:59 +0800</pubDate>
-      <guid>http://localhost:54747/zh-cn/documentation/getting-started/configuration/</guid>
-      <category domain="http://localhost:54747/zh-cn/categories/documentation/">Documentation</category>
+      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/getting-started/configuration/</guid>
+      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;了解如何配置你的 Hugo &lt;strong&gt;FixIt&lt;/strong&gt; 站点。&lt;/p&gt;</description>
     </item>
   </channel>
