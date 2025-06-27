@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>主题文档 | FixIt</title>
+    <link>http://localhost:54747/zh-cn/documentation/</link>
+    <description>一个简洁、优雅且高效的 Hugo 主题 FixIt</description>
+    <generator>Hugo 0.147.7 &amp; FixIt v0.3.21-b2e6f70a</generator>
+    <language>zh-CN</language>
+    <managingEditor>noyceliu@163.com (noyceliu)</managingEditor>
+    <webMaster>noyceliu@163.com (noyceliu)</webMaster>
+    <copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议。</copyright>
+    <lastBuildDate>Fri, 27 Jun 2025 13:39:05 +0800</lastBuildDate>
+    <atom:link href="http://localhost:54747/zh-cn/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>进阶篇</title>
+      <link>http://localhost:54747/zh-cn/documentation/advanced/</link>
+      <pubDate>Sat, 06 Apr 2024 12:59:28 +0800</pubDate>
+      <guid>http://localhost:54747/zh-cn/documentation/advanced/</guid>
+      <category domain="http://localhost:54747/zh-cn/categories/documentation/">Documentation</category>
+      <description>&lt;p&gt;探索 Hugo - &lt;strong&gt;FixIt&lt;/strong&gt; 主题的的进阶使用。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>内容管理</title>
+      <link>http://localhost:54747/zh-cn/documentation/content-management/</link>
+      <pubDate>Wed, 03 Apr 2024 11:38:22 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
+      <guid>http://localhost:54747/zh-cn/documentation/content-management/</guid>
+      <description>了解如何在 FixIt 主题中快速，直观地创建和组织内容。</description>
+    </item>
+    <item>
+      <title>入门篇</title>
+      <link>http://localhost:54747/zh-cn/documentation/getting-started/</link>
+      <pubDate>Sat, 02 Mar 2024 14:52:58 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
+      <guid>http://localhost:54747/zh-cn/documentation/getting-started/</guid>
+      <description>安装和使用 FixIt 主题的快速入门和指南。</description>
+    </item>
+    <item>
+      <title>安装主题</title>
+      <link>http://localhost:54747/zh-cn/documentation/installation/</link>
+      <pubDate>Thu, 18 Jan 2024 10:29:25 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
+      <guid>http://localhost:54747/zh-cn/documentation/installation/</guid>
+      <category domain="http://localhost:54747/zh-cn/categories/documentation/">Documentation</category>
+      <description>&lt;p&gt;只需几个步骤即可为你的 Hugo 站点安装 &lt;strong&gt;FixIt&lt;/strong&gt; 主题。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

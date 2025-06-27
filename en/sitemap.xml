@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:54747/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:54747/zh-cn/categories/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:54747/categories/"/>
+  </url>
+  <url>
+    <loc>http://localhost:54747/collections/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:54747/zh-cn/collections/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:54747/collections/"/>
+  </url>
+  <url>
+    <loc>http://localhost:54747/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:54747/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:54747/"/>
+  </url>
+  <url>
+    <loc>http://localhost:54747/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:54747/zh-cn/tags/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:54747/tags/"/>
+  </url>
+</urlset>

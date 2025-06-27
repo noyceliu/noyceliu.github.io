@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content Management - 合集 | FixIt</title>
+    <link>http://localhost:54747/zh-cn/collections/content-management/</link>
+    <description>一个简洁、优雅且高效的 Hugo 主题 FixIt</description>
+    <generator>Hugo 0.147.7 &amp; FixIt v0.3.21-b2e6f70a</generator>
+    <language>zh-CN</language>
+    <managingEditor>noyceliu@163.com (noyceliu)</managingEditor>
+    <webMaster>noyceliu@163.com (noyceliu)</webMaster>
+    <copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议。</copyright>
+    <lastBuildDate>Thu, 26 Jun 2025 10:44:17 +0800</lastBuildDate>
+    <atom:link href="http://localhost:54747/zh-cn/collections/content-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>相关内容</title>
+      <link>http://localhost:54747/zh-cn/documentation/content-management/related/</link>
+      <pubDate>Sun, 27 Oct 2024 01:05:43 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
+      <guid>http://localhost:54747/zh-cn/documentation/content-management/related/</guid>
+      <category domain="http://localhost:54747/zh-cn/categories/documentation/">Documentation</category>
+      <description>&lt;div class=&#34;details admonition question open&#34;&gt;&#xA;  &lt;div class=&#34;details-summary admonition-title&#34;&gt;&lt;i class=&#34;icon fa-fw fa-regular fa-circle-question&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;缺少翻译&lt;i class=&#34;details-icon fa-solid fa-angle-right fa-fw&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/div&gt;&#xA;  &lt;div class=&#34;details-content&#34;&gt;&#xA;    &lt;div class=&#34;admonition-content&#34;&gt;&lt;p&gt;本文尚未翻译完成，欢迎 &lt;a href=&#34;https://github.com/hugo-fixit/docs/edit/main/content/zh-cn/documentation%5ccontent-management%5crelated%5cindex.md&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;参与翻译&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;。&lt;/p&gt;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;List related content in &amp;ldquo;Related content&amp;rdquo; sections.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>代码块扩展语法 - 时间线（Timeline）</title>
+      <link>http://localhost:54747/zh-cn/documentation/content-management/timeline-support/</link>
+      <pubDate>Sat, 20 Jul 2024 19:25:31 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
+      <guid>http://localhost:54747/zh-cn/documentation/content-management/timeline-support/</guid>
+      <category domain="http://localhost:54747/zh-cn/categories/documentation/">Documentation</category>
+      <description>这篇文档将展示如何在 FixIt 中使用代码块扩展语法创建时间线。</description>
+    </item>
+    <item>
+      <title>代码块扩展语法 - 图表支持</title>
+      <link>http://localhost:54747/zh-cn/documentation/content-management/diagrams/</link>
+      <pubDate>Wed, 22 Mar 2023 10:51:22 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
+      <guid>http://localhost:54747/zh-cn/documentation/content-management/diagrams/</guid>
+      <category domain="http://localhost:54747/zh-cn/categories/documentation/">Documentation</category>
+      <description>&lt;p&gt;这篇文档将展示如何在 FixIt 中使用代码块扩展语法创建 SVG 和 Canvas 图表。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost:54747/zh-cn/documentation/content-management/shortcodes/</link>
+      <pubDate>Fri, 24 Feb 2023 22:03:22 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
+      <guid>http://localhost:54747/zh-cn/documentation/content-management/shortcodes/</guid>
+      <description>了解 Hugo 内置的和 FixIt 主题扩展的 Shortcodes 的用法。</description>
+    </item>
+    <item>
+      <title>Markdown 语法</title>
+      <link>http://localhost:54747/zh-cn/documentation/content-management/markdown-syntax/</link>
+      <pubDate>Fri, 24 Feb 2023 20:35:22 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
+      <guid>http://localhost:54747/zh-cn/documentation/content-management/markdown-syntax/</guid>
+      <description>这些文章展示了 FixIt 主题中基本的和扩展的 Markdown 语法和格式。</description>
+    </item>
+    <item>
+      <title>内容管理概述</title>
+      <link>http://localhost:54747/zh-cn/documentation/content-management/introduction/</link>
+      <pubDate>Fri, 24 Feb 2023 17:27:22 +0800</pubDate>
+      <guid>http://localhost:54747/zh-cn/documentation/content-management/introduction/</guid>
+      <category domain="http://localhost:54747/zh-cn/categories/documentation/">Documentation</category>
+      <description>&lt;p&gt;了解如何在 &lt;strong&gt;FixIt&lt;/strong&gt; 主题中快速，直观地创建和组织内容。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
