@@ -2,12 +2,12 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:54747/noyceliu.github.io/en/sitemap.xml</loc>
+    <loc>=/noyceliu.github.io/en/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:54747/noyceliu.github.io/zh-cn/sitemap.xml</loc>
+    <loc>=/noyceliu.github.io/zh-cn/sitemap.xml</loc>
     
       <lastmod>2025-06-27T14:24:37+08:00</lastmod>
     

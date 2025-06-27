@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shortcodes | FixIt</title>
-    <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/</link>
+    <link>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/</link>
     <description>一个简洁、优雅且高效的 Hugo 主题 FixIt</description>
     <generator>Hugo 0.147.7 &amp; FixIt v0.3.21-b2e6f70a</generator>
     <language>zh-CN</language>
@@ -10,20 +10,20 @@
     <webMaster>noyceliu@163.com (noyceliu)</webMaster>
     <copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议。</copyright>
     <lastBuildDate>Tue, 17 Jun 2025 09:49:08 +0800</lastBuildDate>
-    <atom:link href="http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>扩展 Shortcodes</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/</link>
       <pubDate>Fri, 24 Feb 2023 22:13:22 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/</guid>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/</guid>
       <description>FixIt 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode。</description>
     </item>
     <item>
       <title>内置 Shortcodes</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/built-in/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/built-in/</link>
       <pubDate>Fri, 24 Feb 2023 22:11:22 +0800</pubDate>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/built-in/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/built-in/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;Shortcodes 是在内容文件中调用内置或自定义模板的简单片段。&lt;/p&gt;</description>
     </item>
   </channel>

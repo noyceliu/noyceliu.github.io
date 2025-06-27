@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown 语法 | FixIt</title>
-    <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/</link>
+    <link>=//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/</link>
     <description>一个简洁、优雅且高效的 Hugo 主题 FixIt</description>
     <generator>Hugo 0.147.7 &amp; FixIt v0.3.21-b2e6f70a</generator>
     <language>zh-CN</language>
@@ -10,22 +10,22 @@
     <webMaster>noyceliu@163.com (noyceliu)</webMaster>
     <copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议。</copyright>
     <lastBuildDate>Thu, 26 Jun 2025 10:48:46 +0800</lastBuildDate>
-    <atom:link href="http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="=//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown 扩展语法</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/extended/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/extended/</link>
       <pubDate>Fri, 24 Feb 2023 21:42:22 +0800</pubDate>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/extended/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/extended/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;这篇文章展示了 [&lt;strong&gt;FixIt 风格的 Markdown&lt;/strong&gt;]^(FixIt Flavored Markdown) 扩展语法。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown 基本语法</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/basics/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/basics/</link>
       <pubDate>Sat, 18 Dec 2021 16:15:22 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/basics/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/guides/">Guides</category>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/basics/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/guides/">Guides</category>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例。&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Timeline - 标签 | FixIt</title>
-    <link>http://localhost:54747//noyceliu.github.io/zh-cn/tags/timeline/</link>
+    <link>=//noyceliu.github.io/zh-cn/tags/timeline/</link>
     <description>一个简洁、优雅且高效的 Hugo 主题 FixIt</description>
     <generator>Hugo 0.147.7 &amp; FixIt v0.3.21-b2e6f70a</generator>
     <language>zh-CN</language>
@@ -10,21 +10,21 @@
     <webMaster>noyceliu@163.com (noyceliu)</webMaster>
     <copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议。</copyright>
     <lastBuildDate>Thu, 12 Jun 2025 15:18:10 +0800</lastBuildDate>
-    <atom:link href="http://localhost:54747//noyceliu.github.io/zh-cn/tags/timeline/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="=//noyceliu.github.io/zh-cn/tags/timeline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>扩展 Shortcode - Timeline</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/timeline/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/timeline/</link>
       <pubDate>Sun, 21 Jul 2024 10:44:31 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/timeline/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/timeline/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>这篇文档将展示如何在 FixIt 中使用 Shortcode 创建时间线。</description>
     </item>
     <item>
       <title>代码块扩展语法 - 时间线（Timeline）</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/timeline-support/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/timeline-support/</link>
       <pubDate>Sat, 20 Jul 2024 19:25:31 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/timeline-support/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/timeline-support/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>这篇文档将展示如何在 FixIt 中使用代码块扩展语法创建时间线。</description>
     </item>
   </channel>

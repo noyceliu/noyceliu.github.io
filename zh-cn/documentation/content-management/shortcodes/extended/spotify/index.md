@@ -45,5 +45,5 @@ Or
 ---
 
 > 作者: [Lruihao](https://lruihao.cn)  
-> URL: http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/spotify/  
+> URL: =//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/spotify/  
 

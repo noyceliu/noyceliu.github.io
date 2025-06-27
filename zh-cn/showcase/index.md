@@ -28,5 +28,5 @@
 ---
 
 > 作者: <no value>  
-> URL: http://localhost:54747//noyceliu.github.io/zh-cn/showcase/  
+> URL: =//noyceliu.github.io/zh-cn/showcase/  
 

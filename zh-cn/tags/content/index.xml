@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Content - 标签 | FixIt</title>
-    <link>http://localhost:54747//noyceliu.github.io/zh-cn/tags/content/</link>
+    <link>=//noyceliu.github.io/zh-cn/tags/content/</link>
     <description>一个简洁、优雅且高效的 Hugo 主题 FixIt</description>
     <generator>Hugo 0.147.7 &amp; FixIt v0.3.21-b2e6f70a</generator>
     <language>zh-CN</language>
@@ -10,150 +10,150 @@
     <webMaster>noyceliu@163.com (noyceliu)</webMaster>
     <copyright>本站内容采用 CC BY-NC-SA 4.0 国际许可协议。</copyright>
     <lastBuildDate>Thu, 26 Jun 2025 10:48:46 +0800</lastBuildDate>
-    <atom:link href="http://localhost:54747//noyceliu.github.io/zh-cn/tags/content/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="=//noyceliu.github.io/zh-cn/tags/content/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>相关内容</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/related/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/related/</link>
       <pubDate>Sun, 27 Oct 2024 01:05:43 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/related/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/related/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;div class=&#34;details admonition question open&#34;&gt;&#xA;  &lt;div class=&#34;details-summary admonition-title&#34;&gt;&lt;i class=&#34;icon fa-fw fa-regular fa-circle-question&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;缺少翻译&lt;i class=&#34;details-icon fa-solid fa-angle-right fa-fw&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/div&gt;&#xA;  &lt;div class=&#34;details-content&#34;&gt;&#xA;    &lt;div class=&#34;admonition-content&#34;&gt;&lt;p&gt;本文尚未翻译完成，欢迎 &lt;a href=&#34;https://github.com/hugo-fixit/docs/edit/main/content/zh-cn/documentation%5ccontent-management%5crelated%5cindex.md&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;参与翻译&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;。&lt;/p&gt;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;List related content in &amp;ldquo;Related content&amp;rdquo; sections.&lt;/p&gt;</description>
     </item>
     <item>
       <title>扩展 Shortcode - Timeline</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/timeline/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/timeline/</link>
       <pubDate>Sun, 21 Jul 2024 10:44:31 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/timeline/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/timeline/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>这篇文档将展示如何在 FixIt 中使用 Shortcode 创建时间线。</description>
     </item>
     <item>
       <title>代码块扩展语法 - 时间线（Timeline）</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/timeline-support/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/timeline-support/</link>
       <pubDate>Sat, 20 Jul 2024 19:25:31 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/timeline-support/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/timeline-support/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>这篇文档将展示如何在 FixIt 中使用代码块扩展语法创建时间线。</description>
     </item>
     <item>
       <title>扩展 Shortcode - douyin</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/douyin/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/douyin/</link>
       <pubDate>Mon, 20 May 2024 11:06:24 +0800</pubDate>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/douyin/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/douyin/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;&lt;code&gt;douyin&lt;/code&gt; shortcode 提供了一个内嵌的用来播放抖音视频的响应式播放器。&lt;/p&gt;</description>
     </item>
     <item>
       <title>扩展 Shortcode - spotify</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/spotify/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/spotify/</link>
       <pubDate>Mon, 20 May 2024 11:06:24 +0800</pubDate>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/spotify/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/spotify/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;&lt;code&gt;spotify&lt;/code&gt; shortcode 提供了一个内嵌的响应式音乐播放器。&lt;/p&gt;</description>
     </item>
     <item>
       <title>代码块扩展语法 - 图表支持</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/diagrams/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/diagrams/</link>
       <pubDate>Wed, 22 Mar 2023 10:51:22 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/diagrams/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/diagrams/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;这篇文档将展示如何在 FixIt 中使用代码块扩展语法创建 SVG 和 Canvas 图表。&lt;/p&gt;</description>
     </item>
     <item>
       <title>扩展 Shortcode - typeit</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/typeit/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/typeit/</link>
       <pubDate>Fri, 24 Feb 2023 22:59:50 +0800</pubDate>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/typeit/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/typeit/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;&lt;code&gt;typeit&lt;/code&gt; shortcode 基于 &lt;a href=&#34;https://typeitjs.com/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;TypeIt&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt; 提供了打字动画。&lt;/p&gt;</description>
     </item>
     <item>
       <title>扩展 Shortcode - bilibili</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/bilibili/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/bilibili/</link>
       <pubDate>Fri, 24 Feb 2023 22:52:50 +0800</pubDate>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/bilibili/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/bilibili/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;&lt;code&gt;bilibili&lt;/code&gt; shortcode 提供了一个内嵌的用来播放 bilibili 视频的响应式播放器。&lt;/p&gt;</description>
     </item>
     <item>
       <title>扩展 Shortcode - music</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/music/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/music/</link>
       <pubDate>Fri, 24 Feb 2023 22:50:50 +0800</pubDate>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/music/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/music/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;&lt;code&gt;music&lt;/code&gt; shortcode 基于 &lt;a href=&#34;https://github.com/MoePlayer/APlayer&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;APlayer&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt; 和 &lt;a href=&#34;https://github.com/metowolf/MetingJS&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;MetingJS&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt; 提供了一个内嵌的响应式音乐播放器。&lt;/p&gt;</description>
     </item>
     <item>
       <title>扩展 Shortcode - mapbox</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/mapbox/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/mapbox/</link>
       <pubDate>Fri, 24 Feb 2023 22:45:45 +0800</pubDate>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/mapbox/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/mapbox/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;&lt;code&gt;mapbox&lt;/code&gt; shortcode 使用 &lt;a href=&#34;https://docs.mapbox.com/mapbox-gl-js&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;Mapbox GL JS&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt; 库提供互动式地图的功能。&lt;/p&gt;</description>
     </item>
     <item>
       <title>扩展 Shortcode - echarts</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/echarts/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/echarts/</link>
       <pubDate>Fri, 24 Feb 2023 22:40:40 +0800</pubDate>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/echarts/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/echarts/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;&lt;code&gt;echarts&lt;/code&gt; shortcode 使用 &lt;a href=&#34;https://echarts.apache.org/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;ECharts&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt; 库提供数据可视化的功能。&lt;/p&gt;</description>
     </item>
     <item>
       <title>扩展 Shortcode - admonition</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/admonition/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/admonition/</link>
       <pubDate>Fri, 24 Feb 2023 22:11:45 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/admonition/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/admonition/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;&lt;code&gt;admonition&lt;/code&gt; shortcode 允许你在内容中添加各种类型的标注。&lt;/p&gt;</description>
     </item>
     <item>
       <title>扩展 Shortcode - mermaid</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/mermaid/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/mermaid/</link>
       <pubDate>Fri, 24 Feb 2023 22:11:45 +0800</pubDate>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/mermaid/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
-      <description>&lt;a href=&#34;https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.15&#34; rel=&#34;external&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;version&#34; src=&#39;//noyceliu.github.io/images/version/0.2.15-changed.zh-cn.min.svg&#39; alt=&#34;FixIt 0.2.15 | 更改&#34;&gt;&lt;/a&gt;&#xA;&lt;p&gt;&lt;code&gt;mermaid&lt;/code&gt; shortcode 使用 &lt;a href=&#34;https://mermaid.js.org/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;Mermaid&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt; 库提供绘制图表和流程图的功能。&lt;/p&gt;</description>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/mermaid/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <description>&lt;a href=&#34;https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.15&#34; rel=&#34;external&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;version&#34; src=&#39;=//noyceliu.github.io/images/version/0.2.15-changed.zh-cn.min.svg&#39; alt=&#34;FixIt 0.2.15 | 更改&#34;&gt;&lt;/a&gt;&#xA;&lt;p&gt;&lt;code&gt;mermaid&lt;/code&gt; shortcode 使用 &lt;a href=&#34;https://mermaid.js.org/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;Mermaid&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt; 库提供绘制图表和流程图的功能。&lt;/p&gt;</description>
     </item>
     <item>
       <title>扩展 Shortcodes 概述</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/introduction/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/introduction/</link>
       <pubDate>Fri, 24 Feb 2023 22:11:39 +0800</pubDate>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/introduction/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/introduction/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;&lt;strong&gt;FixIt&lt;/strong&gt; 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 Shortcodes。&lt;/p&gt;</description>
     </item>
     <item>
       <title>内置 Shortcodes</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/built-in/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/built-in/</link>
       <pubDate>Fri, 24 Feb 2023 22:11:22 +0800</pubDate>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/built-in/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/built-in/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;Shortcodes 是在内容文件中调用内置或自定义模板的简单片段。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown 扩展语法</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/extended/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/extended/</link>
       <pubDate>Fri, 24 Feb 2023 21:42:22 +0800</pubDate>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/extended/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/extended/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;这篇文章展示了 [&lt;strong&gt;FixIt 风格的 Markdown&lt;/strong&gt;]^(FixIt Flavored Markdown) 扩展语法。&lt;/p&gt;</description>
     </item>
     <item>
       <title>内容管理概述</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/introduction/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/introduction/</link>
       <pubDate>Fri, 24 Feb 2023 17:27:22 +0800</pubDate>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/introduction/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/introduction/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;了解如何在 &lt;strong&gt;FixIt&lt;/strong&gt; 主题中快速，直观地创建和组织内容。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown 基本语法</title>
-      <link>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/basics/</link>
+      <link>=//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/basics/</link>
       <pubDate>Sat, 18 Dec 2021 16:15:22 +0800</pubDate><author>noyceliu@163.com (noyceliu)</author>
-      <guid>http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/basics/</guid>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/guides/">Guides</category>
-      <category domain="http://localhost:54747//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
+      <guid>=//noyceliu.github.io/zh-cn/documentation/content-management/markdown-syntax/basics/</guid>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/guides/">Guides</category>
+      <category domain="=//noyceliu.github.io/zh-cn/categories/documentation/">Documentation</category>
       <description>&lt;p&gt;这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例。&lt;/p&gt;</description>
     </item>
   </channel>

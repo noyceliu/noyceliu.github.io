@@ -79,5 +79,5 @@ https://www.bilibili.com/video/BV1kt411k7Rq?p=3
 ---
 
 > 作者: [Lruihao](https://lruihao.cn)  
-> URL: http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/bilibili/  
+> URL: =//noyceliu.github.io/zh-cn/documentation/content-management/shortcodes/extended/bilibili/  
 

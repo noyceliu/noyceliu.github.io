@@ -97,4 +97,4 @@ Disallow: /
 User-agent: ClaudeBot
 Disallow: /
 
-Sitemap: http://localhost:54747/sitemap.xml
+Sitemap: /sitemap.xml

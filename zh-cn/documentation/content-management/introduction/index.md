@@ -526,5 +526,5 @@ defaultContentLanguage = "zh-cn"
 ---
 
 > 作者: [Lruihao](https://lruihao.cn)  
-> URL: http://localhost:54747//noyceliu.github.io/zh-cn/documentation/content-management/introduction/  
+> URL: =//noyceliu.github.io/zh-cn/documentation/content-management/introduction/  
 
