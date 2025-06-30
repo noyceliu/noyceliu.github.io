@@ -47,9 +47,9 @@
 {{< admonition >}}
 
 ```markdown {.no-header, linenos=false}
-{{< admonition >}}
+{{?{}< admonition >}}
 The quick brown fox jumps over the lazy dog.
-{{< /admonition >}}
+{{?{}< /admonition >}}
 ```
 
 {{< /admonition >}}
@@ -57,9 +57,9 @@ The quick brown fox jumps over the lazy dog.
 {{< admonition abstract "" false >}}
 
 ```markdown {.no-header, linenos=false}
-{{< admonition abstract >}}
+{{?{}< admonition abstract >}}
 The quick brown fox jumps over the lazy dog.
-{{< /admonition >}}
+{{?{}< /admonition >}}
 ```
 
 别名：`summary`, `tldr`
@@ -68,9 +68,9 @@ The quick brown fox jumps over the lazy dog.
 {{< admonition info "" false >}}
 
 ```markdown {.no-header, linenos=false}
-{{< admonition info >}}
+{{?{}< admonition info >}}
 The quick brown fox jumps over the lazy dog.
-{{< /admonition >}}
+{{?{}< /admonition >}}
 ```
 
 {{< /admonition >}}
@@ -79,9 +79,9 @@ The quick brown fox jumps over the lazy dog.
 {{< version 0.3.13 >}}
 
 ```markdown {.no-header, linenos=false}
-{{< admonition todo >}}
+{{?{}< admonition todo >}}
 The quick brown fox jumps over the lazy dog.
-{{< /admonition >}}
+{{?{}< /admonition >}}
 ```
 
 {{< /admonition >}}
@@ -89,9 +89,9 @@ The quick brown fox jumps over the lazy dog.
 {{< admonition tip "" false >}}
 
 ```markdown {.no-header, linenos=false}
-{{< admonition tip >}}
+{{?{}< admonition tip >}}
 The quick brown fox jumps over the lazy dog.
-{{< /admonition >}}
+{{?{}< /admonition >}}
 ```
 
 别名：`hint`, `important`
@@ -100,9 +100,9 @@ The quick brown fox jumps over the lazy dog.
 {{< admonition success "" false >}}
 
 ```markdown {.no-header, linenos=false}
-{{< admonition success >}}
+{{?{}< admonition success >}}
 The quick brown fox jumps over the lazy dog.
-{{< /admonition >}}
+{{?{}< /admonition >}}
 ```
 
 别名：`check`, `done`
@@ -111,9 +111,9 @@ The quick brown fox jumps over the lazy dog.
 {{< admonition question "" false >}}
 
 ```markdown {.no-header, linenos=false}
-{{< admonition question >}}
+{{?{}< admonition question >}}
 The quick brown fox jumps over the lazy dog.
-{{< /admonition >}}
+{{?{}< /admonition >}}
 ```
 
 别名：`help`, `faq`
@@ -122,9 +122,9 @@ The quick brown fox jumps over the lazy dog.
 {{< admonition warning "" false >}}
 
 ```markdown {.no-header, linenos=false}
-{{< admonition warning >}}
+{{?{}< admonition warning >}}
 The quick brown fox jumps over the lazy dog.
-{{< /admonition >}}
+{{?{}< /admonition >}}
 ```
 
 别名：`caution`, `attention`
@@ -133,9 +133,9 @@ The quick brown fox jumps over the lazy dog.
 {{< admonition failure "" false >}}
 
 ```markdown {.no-header, linenos=false}
-{{< admonition failure >}}
+{{?{}< admonition failure >}}
 The quick brown fox jumps over the lazy dog.
-{{< /admonition >}}
+{{?{}< /admonition >}}
 ```
 
 别名：`fail`, `missing`
@@ -144,9 +144,9 @@ The quick brown fox jumps over the lazy dog.
 {{< admonition danger "" false >}}
 
 ```markdown {.no-header, linenos=false}
-{{< admonition danger >}}
+{{?{}< admonition danger >}}
 The quick brown fox jumps over the lazy dog.
-{{< /admonition >}}
+{{?{}< /admonition >}}
 ```
 
 Alias: `error`
@@ -155,9 +155,9 @@ Alias: `error`
 {{< admonition bug "" false >}}
 
 ```markdown {.no-header, linenos=false}
-{{< admonition bug >}}
+{{?{}< admonition bug >}}
 The quick brown fox jumps over the lazy dog.
-{{< /admonition >}}
+{{?{}< /admonition >}}
 ```
 
 {{< /admonition >}}
@@ -165,9 +165,9 @@ The quick brown fox jumps over the lazy dog.
 {{< admonition example "" false >}}
 
 ```markdown {.no-header, linenos=false}
-{{< admonition example >}}
+{{?{}< admonition example >}}
 The quick brown fox jumps over the lazy dog.
-{{< /admonition >}}
+{{?{}< /admonition >}}
 ```
 
 {{< /admonition >}}
@@ -175,9 +175,9 @@ The quick brown fox jumps over the lazy dog.
 {{< admonition quote "" false >}}
 
 ```markdown {.no-header, linenos=false}
-{{< admonition quote >}}
+{{?{}< admonition quote >}}
 The quick brown fox jumps over the lazy dog.
-{{< /admonition >}}
+{{?{}< /admonition >}}
 ```
 
 Alias: `cite`
