@@ -169,9 +169,9 @@ ban = "禁止"
 Shortcode 语法：
 
 ```markdown {.no-header, linenos=false}
-{{?{}< admonition ban >}}
+{{< admonition ban >}}
 这是一个带有禁止图标的自定义 Admonition 类型。
-{{?{}< /admonition >}}
+{{< /admonition >}}
 ```
 
 Alert Markdown 扩展语法：
