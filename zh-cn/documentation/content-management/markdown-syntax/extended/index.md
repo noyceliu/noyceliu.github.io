@@ -324,11 +324,11 @@ FixIt 主题的作者是 ++Lruihao++。
 ```markdown
 {{< raw >}}行内公式：\(\mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}+\mathbf{E}_{2}+\mathbf{E}_{3}+\cdots\){{< /raw >}}
 
-{{?{}< raw >}}
+{{< raw >}}
 公式块：
 \[ a=b+c \\ d+e=f \]
 \[ f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi \]
-{{?{}< /raw >}}
+{{< /raw >}}
 ```
 
 呈现的输出效果如下：
