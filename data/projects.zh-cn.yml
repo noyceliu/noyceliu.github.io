@@ -1,0 +1,50 @@
+- title: ❤️‍🔥 核心
+  totalStars: true
+  repos:
+    - hugo-fixit/FixIt
+    - hugo-fixit/fixit-bundle
+- title: 📄 模板
+  repos:
+    - hugo-fixit/hugo-fixit-starter
+    - hugo-fixit/hugo-fixit-starter1
+    - hugo-fixit/docs
+    - Lruihao/hugo-blog
+- title: 🧩 组件
+  description: "FixIt 主题旨在 **简洁性** 和 **可扩展性** 之间取得平衡。为此，我们开发了一系列额外的 Hugo 主题组件供用户选择。"
+  collections:
+    - Components
+  # Order by, optional values: ['default', 'name', 'star', 'fork']
+  orderby: star
+  # Order of repos, optional values: ['asc', 'desc']
+  order: desc
+  repos:
+    - hugo-fixit/component-projects
+    - hugo-fixit/hugo-atom-feed
+    - hugo-fixit/cmpt-mdevtools
+    - hugo-fixit/cmpt-flyfish
+    - hugo-fixit/cmpt-translate
+    - hugo-fixit/hugo-json-feed
+    - hugo-fixit/shortcode-asciinema
+    - hugo-fixit/shortcode-caniuse
+    - hugo-fixit/shortcode-docs-bookmark
+    - hugo-fixit/shortcode-mmt-netease
+    - hugo-fixit/shortcode-rewards
+- title: 🛠️ 工具
+  categories:
+    - FixIt Tools
+  repos:
+    - hugo-fixit/fixit-cli
+    - hugo-fixit/fixit-releaser
+    - hugo-fixit/component-skeleton
+    - hugo-fixit/action-component-list
+    - hugo-fixit/hugo-shell
+    - hugo-fixit/.tools
+- title: 👾 第三方
+  description: "欢迎大家投稿 [PR :(fa-solid fa-code-branch fa-fw):](https://github.com/hugo-fixit/docs/edit/dev/data/projects.zh-cn.yml) 你开发的主题组件。"
+  contentAdapters: true
+  collections:
+    - TP Components
+  orderby: star
+  order: desc
+  repos:
+    - fixit-theme/hugo-shortcode-plugins-live2d
