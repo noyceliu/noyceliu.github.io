@@ -93,7 +93,7 @@ ECharts 提供了常规的 [折线图][line], [柱状图][bar], [散点图][scat
 {{< details "查看源码" false "center" >}}
 
 ```markdown {data-open=true}
-{{< echarts >}}
+{{?{}< echarts >}}
 {
   "title": {
     "text": "折线统计图",
@@ -162,7 +162,7 @@ ECharts 提供了常规的 [折线图][line], [柱状图][bar], [散点图][scat
     }
   ]
 }
-{{< /echarts >}}
+{{?{}< /echarts >}}
 ```
 
 {{< /details >}}
@@ -270,7 +270,7 @@ series:
 {{< details "查看源码" false "center" >}}
 
 ```markdown {data-open=true}
-{{< echarts >}}
+{{?{}< echarts >}}
 title:
   text: 折线统计图
   top: 2%
@@ -364,7 +364,7 @@ series:
       - 1290
       - 1330
       - 1320
-{{< /echarts >}}
+{{?{}< /echarts >}}
 ```
 
 {{< /details >}}
@@ -494,7 +494,7 @@ data = [
 {{< details "查看源码" false "center" >}}
 
 ```markdown {data-open=true}
-{{< echarts >}}
+{{?{}< echarts >}}
 [title]
 text = "折线统计图"
 top = "2%"
@@ -610,7 +610,7 @@ data = [
   1330.0,
   1320.0
 ]
-{{< /echarts >}}
+{{?{}< /echarts >}}
 ```
 
 {{< /details >}}
@@ -813,7 +813,7 @@ data = [
 {{< details "查看源码" false "center" >}}
 
 ```markdown {data-open=true}
-{{< echarts js=true >}}
+{{?{}< echarts js=true >}}
 {
   color: ['#80FFA5', '#00DDFF', '#37A2FF', '#FF0087', '#FFBF00'],
   title: {
@@ -1000,7 +1000,7 @@ data = [
     }
   ]
 }
-{{< /echarts >}}
+{{?{}< /echarts >}}
 ```
 
 {{< /details >}}
@@ -1068,7 +1068,7 @@ return option;
 {{< details "查看源码" false "center" >}}
 
 ```markdown {data-open=true}
-{{< echarts js=true >}}
+{{?{}< echarts js=true >}}
 const data = [];
 for (let i = 0; i <= 100; i++) {
   let theta = (i / 100) * 360;
@@ -1106,7 +1106,7 @@ const option = {
   ]
 };
 return option;
-{{< /echarts >}}
+{{?{}< /echarts >}}
 ```
 
 {{< /details >}}
@@ -1169,7 +1169,7 @@ return fetch('/echarts/les-miserables.json')
 {{< details "查看源码" false "center" >}}
 
 ```markdown {data-open=true}
-{{< echarts js=true async=true >}}
+{{?{}< echarts js=true async=true >}}
 return fetch('/echarts/les-miserables.json')
   .then((response) => response.json())
   .then((graph) => {
@@ -1220,7 +1220,7 @@ return fetch('/echarts/les-miserables.json')
     };
     return option;
 });
-{{< /echarts >}}
+{{?{}< /echarts >}}
 ```
 
 {{< /details >}}
@@ -1234,7 +1234,7 @@ return fetch('/echarts/les-miserables.json')
 例如，定义有 `data/echarts/round-cap.json` 文件，你可以 使用 `data` 参数来引用：
 
 ```markdown
-{{< echarts data="round-cap" />}}
+{{?{}< echarts data="round-cap" />}}
 ```
 
 呈现的输出效果如下：
@@ -1263,7 +1263,7 @@ echarts/
 你可以使用 `file` 参数来从文件中获取数据：
 
 ```markdown
-{{< echarts file="data/chart.yaml" />}}
+{{?{}< echarts file="data/chart.yaml" />}}
 ```
 
 呈现的输出效果如下：
@@ -1273,7 +1273,7 @@ echarts/
 一个加载 `JS` 文件的示例：
 
 ```markdown
-{{< echarts file="data/chart.js" />}}
+{{?{}< echarts file="data/chart.js" />}}
 ```
 
 呈现的输出效果如下：

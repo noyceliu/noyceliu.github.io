@@ -322,13 +322,13 @@ FixIt 主题的作者是 ++Lruihao++。
 一个 `raw` 示例：
 
 ```markdown
-{{< raw >}}行内公式：\(\mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}+\mathbf{E}_{2}+\mathbf{E}_{3}+\cdots\){{< /raw >}}
+{{?{}< raw >}}行内公式：\(\mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}+\mathbf{E}_{2}+\mathbf{E}_{3}+\cdots\){{?{}< /raw >}}
 
-{{< raw >}}
+{{?{}< raw >}}
 公式块：
 \[ a=b+c \\ d+e=f \]
 \[ f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi \]
-{{< /raw >}}
+{{?{}< /raw >}}
 ```
 
 呈现的输出效果如下：
@@ -536,13 +536,13 @@ $$ \ce{Hg\^2+ ->[I-] HgI2 ->[I-] [Hg\^{II}I4]\^2-} $$
 转义字符语法可以帮助你渲染出想要的内容：
 
 ```markdown
-sample
+{{??}X} -> X
 ```
 
 例如，两个 `:` 会启用 emoji 语法。但有时候这不是你想要的结果。可以像这样使用转义字符语法：
 
 ```markdown
-sample
+{{??}:}joy:
 ```
 
 呈现的输出效果如下：
@@ -556,7 +556,7 @@ sample
 另一个例子是：
 
 ```markdown
-sample
+[link{{??}]}(#escape-character)
 ```
 
 呈现的输出效果如下：

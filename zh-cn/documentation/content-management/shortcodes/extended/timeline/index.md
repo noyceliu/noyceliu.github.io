@@ -24,7 +24,7 @@ events:
 {{< details "查看源码" false "center" >}}
 
 ```markdown
-{{< timeline >}}
+{{?{}< timeline >}}
 events:
   - timestamp: 2024-07-11
     content: 创建成功
@@ -32,7 +32,7 @@ events:
     content: 通过审核
   - timestamp: 2024-07-15
     content: 活动按期开始
-{{< /timeline >}}
+{{?{}< /timeline >}}
 ```
 
 {{< /details >}}
@@ -52,7 +52,7 @@ events:
 {{< details "查看源码" false "center" >}}
 
 ```markdown
-{{< timeline reverse=true >}}
+{{?{}< timeline reverse=true >}}
 events:
   - timestamp: 2024-07-11
     content: 创建成功
@@ -60,7 +60,7 @@ events:
     content: 通过审核
   - timestamp: 2024-07-15
     content: 活动按期开始
-{{< /timeline >}}
+{{?{}< /timeline >}}
 ```
 
 {{< /details >}}
@@ -82,7 +82,7 @@ events:
 {{< details "查看源码" false "center" >}}
 
 ```markdown
-{{< timeline animation=true >}}
+{{?{}< timeline animation=true >}}
 events:
   - timestamp: 2024-07-11
     content: 创建成功
@@ -90,7 +90,7 @@ events:
     content: 通过审核
   - timestamp: 2024-07-15
     content: 活动按期开始
-{{< /timeline >}}
+{{?{}< /timeline >}}
 ```
 
 {{< /details >}}
@@ -118,7 +118,7 @@ events:
 {{< details "查看源码" false "center" >}}
 
 ```markdown {data-open=true}
-{{< timeline >}}
+{{?{}< timeline >}}
 events:
   - timestamp: 2024-07-19 20:30
     content: 支持自定义风格
@@ -132,7 +132,7 @@ events:
     size: large
   - timestamp: 2024-07-20 20:30
     content: 默认样式的节点
-{{< /timeline >}}
+{{?{}< /timeline >}}
 ```
 
 {{< /details >}}
@@ -154,7 +154,7 @@ events:
 {{< details "查看源码" false "center" >}}
 
 ```markdown
-{{< timeline placement=top >}}
+{{?{}< timeline placement=top >}}
 events:
   - timestamp: 2024-07-19 20:30
     content: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint impedit magni soluta esse placeat facilis porro vitae facere explicabo. Architecto exercitationem accusamus omnis reiciendis beatae et inventore deserunt sequi recusandae.
@@ -162,7 +162,7 @@ events:
     content: Id amet sapiente quod temporibus molestiae? Quasi officia placeat magnam sapiente! Esse iure ipsam quia laboriosam dolorem at dolor est porro placeat, sequi magni maxime vel sint architecto. Placeat, laboriosam?
   - timestamp: 2024-07-19 20:30
     content: Expedita delectus rerum vitae consequuntur quam, tempore fugit debitis voluptatem praesentium maiores dolorem possimus illum adipisci facere veniam voluptatibus aliquam ipsa ducimus nam impedit cumque! Rerum molestias praesentium expedita! Itaque.
-{{< /timeline >}}
+{{?{}< /timeline >}}
 ```
 
 {{< /details >}}
@@ -197,7 +197,7 @@ events:
 {{< details "查看源码" false "center" >}}
 
 ```markdown {data-open=true}
-{{< timeline reverse=true >}}
+{{?{}< timeline reverse=true >}}
 events:
   - timestamp: 2021-12-18T16:15:22+08:00
     content: "Feat: [LoveIt](https://github.com/dillonzq/LoveIt) => [FixIt](https://github.com/hugo-fixit/FixIt)"
@@ -218,7 +218,7 @@ events:
   - timestamp: 2024-07-20T22:28:19+08:00
     content: ":tada: Feat: add timeline support for code blocks"
     type: danger
-{{< /timeline >}}
+{{?{}< /timeline >}}
 ```
 
 {{< /details >}}
@@ -251,7 +251,7 @@ events:
 {{< details "查看源码" false "center" >}}
 
 ```markdown {data-open=true}
-{{< timeline >}}
+{{?{}< timeline >}}
 {
   "events": [
     {
@@ -268,7 +268,7 @@ events:
     }
   ]
 }
-{{< /timeline >}}
+{{?{}< /timeline >}}
 ```
 
 {{< /details >}}
@@ -288,7 +288,7 @@ events:
 {{< details "查看源码" false "center" >}}
 
 ```markdown
-{{< timeline >}}
+{{?{}< timeline >}}
 events:
   - timestamp: 2024-07-11
     content: 创建成功
@@ -296,7 +296,7 @@ events:
     content: 通过审核
   - timestamp: 2024-07-15
     content: 活动按期开始
-{{< /timeline >}}
+{{?{}< /timeline >}}
 ```
 
 {{< /details >}}
@@ -320,7 +320,7 @@ content = "活动按期开始"
 {{< details "查看源码" false "center" >}}
 
 ```markdown {data-open=true}
-{{< timeline >}}
+{{?{}< timeline >}}
 [[events]]
 timestamp = "2024-07-11"
 content = "创建成功"
@@ -332,7 +332,7 @@ content = "通过审核"
 [[events]]
 timestamp = "2024-07-15"
 content = "活动按期开始"
-{{< /timeline >}}
+{{?{}< /timeline >}}
 ```
 
 {{< /details >}}
@@ -346,7 +346,7 @@ content = "活动按期开始"
 例如，定义有 `data/timeline/example.yml` 文件，你可以 使用 `data` 参数来引用：
 
 ```markdown
-{{< timeline data="example" />}}
+{{?{}< timeline data="example" />}}
 ```
 
 呈现的输出效果如下：
@@ -372,7 +372,7 @@ timeline/
 你可以使用 `file` 参数来从文件中获取数据：
 
 ```markdown
-{{< timeline file="data/example.yml" />}}
+{{?{}< timeline file="data/example.yml" />}}
 ```
 
 呈现的输出效果如下：
