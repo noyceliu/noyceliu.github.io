@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FixIt</title>
+    <link>=//noyceliu.github.io/</link>
+    <description>A Clean, Elegant but Advanced Hugo Theme FixIt</description>
+    <generator>Hugo 0.147.7 &amp; FixIt v0.3.21-b2e6f70a</generator>
+    <language>en</language>
+    <managingEditor>noyceliu@163.com (noyceliu)</managingEditor>
+    <webMaster>noyceliu@163.com (noyceliu)</webMaster>
+    <copyright>This work is licensed under CC BY-NC-SA-4.0.</copyright>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="=//noyceliu.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
