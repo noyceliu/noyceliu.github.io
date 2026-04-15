@@ -5,7 +5,6 @@
 
 [[main]]
   identifier = "releases"
-  parent = "documentation"
   name = "版本发布"
   post = '<i class="fa-solid fa-external-link-alt fa-fw fa-xs text-secondary"></i>'
   url = "https://github.com/hugo-fixit/FixIt/releases"
@@ -61,6 +60,7 @@
   weight = 40
   [main.params]
     icon = "fa-regular fa-comments"
+
 
 [[main]]
   identifier = "tests"

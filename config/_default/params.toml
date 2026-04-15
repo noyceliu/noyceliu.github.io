@@ -55,6 +55,9 @@ summaryPlainify = false
 # 您可以将其关闭，但如果您不这样做，我们将不胜感激，因为这是观察 FixIt 受欢迎程度上升的好方法。
 disableThemeInject = false
 
+mainSections = ['posts']
+
+
 # Author Configuration
 # 作者配置
 [author]
@@ -687,7 +690,7 @@ disableThemeInject = false
 [gravatar]
   # FixIt 0.2.18 | NEW Depends on the author's email, if the author's email is not set, the local avatar will be used
   # FixIt 0.2.18 | 新增 取决于作者邮箱，作者邮箱未设置则使用本地头像
-  enable = true
+  enable = false
   # Gravatar host, default: "www.gravatar.com"
   # Gravatar 主机，默认：“www.gravatar.com”
   host = "gravatar.loli.net" # ["cravatar.cn", "gravatar.loli.net", ...]

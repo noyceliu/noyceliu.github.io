@@ -18,7 +18,7 @@ baseURL = "http://noyceliu.github.io/"
 ignoreLogs = ['error-get-remote-json']
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-cn"
 # disableLanguages = ["zh-cn"]
 # whether to include Chinese/Japanese/Korean
 # 是否包括中日韩文字
